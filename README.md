@@ -1,7 +1,5 @@
 ## MOOC certificates
 
-### EdX:
-
 Course Name | University | Instructors | Date | Provider | Certificate
 ---|---|---|---|---|---
 [Statistical Learning][c1_link] | [Stanford Online][jhu] | [Robert Tibshirani][lrt], [Trevor Hastie][lth] | Sep 2021 | [EdX][edx] | [Certificate][c1_cert]
